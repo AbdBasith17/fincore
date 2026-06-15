@@ -23,7 +23,7 @@ const PROCESS = [
   { title: "Ongoing Advisory",     desc: "We stay with you — proactive alerts, strategy updates, and reviews as your business evolves." },
 ];
 
-export default function Whyus() {
+export default function WhyUs() {
   return (
     <section
       id="why-us"
